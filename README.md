@@ -523,3 +523,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Advanced export** formats (CSV, JSON, XML)
 - **Search result highlighting** and preview
 - **Batch operations** on search results
+#   I r o n V a u l t  
+ 
