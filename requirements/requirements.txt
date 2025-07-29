@@ -1,0 +1,23 @@
+# IronLock Vault - External Dependencies
+# Core dependencies for the secure desktop vault application
+
+# GUI Framework
+ttkbootstrap>=1.10.1
+
+# Image Processing
+Pillow>=10.0.0
+
+# Cryptography
+cryptography>=41.0.0
+
+# Two-Factor Authentication
+pyotp>=2.8.0
+
+# File System Monitoring
+watchdog>=3.0.0
+
+# Development and Testing (Optional)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=23.0.0
+# flake8>=6.0.0 

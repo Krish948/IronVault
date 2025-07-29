@@ -1,0 +1,17 @@
+# IronLock Vault - Production Dependencies
+# Minimal dependencies for production deployment
+
+# GUI Framework
+ttkbootstrap>=1.10.1
+
+# Image Processing
+Pillow>=10.0.0
+
+# Cryptography
+cryptography>=41.0.0
+
+# Two-Factor Authentication
+pyotp>=2.8.0
+
+# File System Monitoring
+watchdog>=3.0.0 
