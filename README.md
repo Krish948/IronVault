@@ -1,6 +1,6 @@
 # IronLock Vault
 
-A comprehensive desktop vault application with advanced encryption, two-factor authentication, and enhanced search capabilities.
+A comprehensive desktop vault application with advanced encryption, two-factor authentication, and enhanced search capabilities, etc.
 
 ## Table of Contents
 
